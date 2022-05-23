@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+    color:black;
+  }
+  body{
+   width:100%;
+     height:100%;
+    background-image: url("https://thumbs.dreamstime.com/b/word-age-made-gray-wooden-letters-word-age-made-gray-wooden-letters-lies-blue-background-165602060.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attatchment:fixed;
+    font-family:Copperplate;
+   
+  }
+  .yoite{
+    width:50%;
+    height:30%;
+    background-color: rgba(153, 204, 255,0.6);
+    text-align:center;
+    padding:40px;
+  }
+  button{
+    color:rgb(204, 230, 255);
+      background-color:rgba(0, 105, 204,0.4);
+  }
